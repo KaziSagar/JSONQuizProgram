@@ -1,0 +1,130 @@
+[
+  {
+    "Option 1": "issue",
+    "Option 2": "failure",
+    "answer": "4",
+    "Question": "Any execution issue or runtime failure that occurs by developer is called a/an: ",
+    "Option 3": "bug",
+    "Option 4": "error"
+  },
+  {
+    "Option 1": "fault, error",
+    "Option 2": "failure, fault",
+    "answer": "1",
+    "Question": "(A/An) _____ is introduced into the software as the result of (a/an) _____ or any missing requirement.",
+    "Option 3": "bug, defect",
+    "Option 4": "error, bug"
+  },
+  {
+    "Option 1": "Bug report",
+    "Option 2": "Selenium web driver",
+    "answer": "1",
+    "Question": "Which is not related to Automation testing?",
+    "Option 3": "Postman",
+    "Option 4": "Appium"
+  },
+  {
+    "Option 1": "Clear box testing",
+    "Option 2": "Black box testing",
+    "answer": "2",
+    "Question": "No code access is needed for which kind of testing?",
+    "Option 3": "Grey box testing",
+    "Option 4": "White box testing"
+  },
+  {
+    "Option 1": "Acceptance testing",
+    "Option 2": "Integration testing",
+    "answer": "3",
+    "Question": "Which is not a testing level?",
+    "Option 3": "White box testing",
+    "Option 4": "System testing"
+  },
+  {
+    "Option 1": "Integration testing",
+    "Option 2": "System testing",
+    "answer": "3",
+    "Question": "Which kind of testing is done by a developer?",
+    "Option 3": "Unit testing",
+    "Option 4": "System testing"
+  },
+  {
+    "Option 1": "Monkey testing",
+    "Option 2": "Regression testing",
+    "answer": "4",
+    "Question": "Which one is a type of Non-functional testing?",
+    "Option 3": "Usability testing",
+    "Option 4": "Utility testing"
+  },
+  {
+    "Option 1": "Performance testing",
+    "Option 2": "Sanity testing",
+    "answer": "2",
+    "Question": "Which is a type of Functional testing?",
+    "Option 3": "Security testing",
+    "Option 4": "Benchmark testing"
+  },
+  {
+    "Option 1": "Decision table testing",
+    "Option 2": "Acceptance table testing",
+    "answer": "2",
+    "Question": "Which is not a Black box testing technique?",
+    "Option 3": "State transition diagram",
+    "Option 4": "Error guessing"
+  },
+  {
+    "Option 1": "Decision table testing",
+    "Option 2": "Error guessing",
+    "answer": "2",
+    "Question": "Which type of Black box testing techniques requires the tester to have good experience?",
+    "Option 3": "Equivalence partitioning",
+    "Option 4": "Boundary value analysis"
+  },
+  {
+    "Option 1": "True, True",
+    "Option 2": "False, False",
+    "answer": "1",
+    "Question": "Output would be 'True' for: ",
+    "Option 3": "False, True",
+    "Option 4": "True, False"
+  },
+  {
+    "Option 1": "All conditions must be checked at least once.",
+    "Option 2": "Minimum path has been covered.",
+    "answer": "1",
+    "Question": "Branch coverage ensures: ",
+    "Option 3": "All of the above",
+    "Option 4": "Maximum path has been covered"
+  },
+  {
+    "Option 1": "2 (Always)",
+    "Option 2": "Number of 'else' + 1",
+    "answer": "4",
+    "Question": "For un-nested conditions, statement coverage = ",
+    "Option 3": "2 (when no else are there)",
+    "Option 4": "2 (when else are there)"
+  },
+  {
+    "Option 1": "RTX",
+    "Option 2": "TMX",
+    "answer": "3",
+    "Question": "The short form for Traceability Matrix is: ",
+    "Option 3": "RTM",
+    "Option 4": "TRX"
+  },
+  {
+    "Option 1": "High priority, High severity",
+    "Option 2": "Low priority, Low severity",
+    "answer": "4",
+    "Question": "The bug state for - The spelling mistakes that happens on the cover page or heading or title of an application is: ",
+    "Option 3": "Low priority, High severity",
+    "Option 4": "High priority, Low severity"
+  },
+  {
+    "Option 1": "Major",
+    "Option 2": "Moderate",
+    "answer": "3",
+    "Question": "Which one is a Priority type?",
+    "Option 3": "Medium",
+    "Option 4": "Minor"
+  }
+]
